@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`or `yarn start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+<img width="1676" alt="image" src="https://user-images.githubusercontent.com/923491/60417202-3a8a3500-9bb6-11e9-8e7e-f5dd4dbd20aa.png">
+
 
 ### `npm run build`
 
